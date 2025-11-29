@@ -6,8 +6,8 @@ It is a simple beginner-friendly example that shows how to request data from a p
 ---
 
 ## 🚀 Live Demo  
-🔗 https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/  
-*(Replace with your actual link)*
+🔗 https://code-master-lab.github.io/API-call-in-javascript/ 
+
 
 ---
 
